@@ -1,6 +1,6 @@
 {
-  "name": "digitaldonkey/ethereum-php",
-  "description": "A library integrating Ethereum with typed PHP.",
+  "name": "suraj-nonstop/ethereum-php",
+  "description": "A library integrating Ethereum with typed PHP. ",
   "require": {
     "php": ">=7.1",
     "ext-json": "*",
@@ -31,6 +31,10 @@
     {
       "name": "Thorsten Krug",
       "email": "thorsten.krug@consensys.net"
+    },
+    {
+      "name": "Suraj Kurade ",
+      "email": "suraj.kurade@nonstopio.com"
     }
   ]
 }
